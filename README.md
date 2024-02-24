@@ -1,4 +1,18 @@
 <h1 align="center">
-# Factory
+Factory
 </h1>
-Factory is a game made by PrestoGuys
+Factory is a game made by PrestoGuys. It is a money making game, compleatly free and open source.
+
+<a href="url">Factory Website</a>
+
+
+
+
+
+
+
+
+
+
+
+
